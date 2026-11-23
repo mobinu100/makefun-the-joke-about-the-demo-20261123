@@ -1,6 +1,8 @@
 # The joke about the demo
 
-[![make.fun](https://img.shields.io/badge/make.fun-entry-blue)](https://make.fun)
+[![make.fun · the-joke-about-the-demo-20261123-0112](https://make.fun/badge/the-joke-about-the-demo-20261123-0112.svg)](https://make.fun/bounty/the-joke-about-the-demo-20261123-0112?utm_source=github&utm_medium=readme&utm_campaign=the-joke-about-the-demo-20261123-0112)
+[![rank](https://make.fun/badge/the-joke-about-the-demo-20261123-0112/mobinu100/makefun-the-joke-about-the-demo-20261123/rank.svg)](https://make.fun/bounty/the-joke-about-the-demo-20261123-0112/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=the-joke-about-the-demo-20261123-0112)
+[![reward](https://make.fun/badge/the-joke-about-the-demo-20261123-0112/mobinu100/makefun-the-joke-about-the-demo-20261123/reward.svg)](https://make.fun/bounty/the-joke-about-the-demo-20261123-0112?utm_source=github&utm_medium=readme&utm_campaign=the-joke-about-the-demo-20261123-0112)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Node 22](https://img.shields.io/badge/Node-22-green.svg)](main.ts)
 
